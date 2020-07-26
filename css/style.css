@@ -1,0 +1,24 @@
+.head,.header,.hero,.body,.bar,.footer{
+  text-align: center;
+  background: #ffadca;
+  margin-bottom: 1rem;
+
+}
+.title {
+  background: #9ad7ea;
+  border: 3px solid #1fb153;
+}
+.box{
+  min-height: 12vh;
+  margin-bottom: 1rem;
+  background: #9ad7ea;
+  font-size: 2rem;
+  border: 3px solid #1fb153;
+}
+.nested{
+  border:3px solid yellow;
+}
+.red{
+  background: #ED1B23;
+}
+
